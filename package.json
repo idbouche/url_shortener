@@ -8,7 +8,7 @@
     "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "coligo.io",
+  "author": "id bouche",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.14.1",
