@@ -1,0 +1,22 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "A NodeJS + Express + MongoDB based URL shortener",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "coligo.io",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "iplocation": "^5.0.1",
+    "ipware": "^1.0.0",
+    "mongoose": "4.2.9",
+    "nodemon": "^1.18.4",
+    "normalize-url": "^3.2.0"
+  }
+}
